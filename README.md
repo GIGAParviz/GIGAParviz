@@ -3,10 +3,10 @@
 </p>
 <body>
 
-<h2>- 👋 I’m Amir Mehdi Parviz &#128511;<html></html></h2>
-<h2>👀 I’m interested in AI(Deep Learning , Computer Vision) and Data Science </h2>
-<h2>🌱 I’m currently Work as a AI-Developer</h2>
-<h2>💞️ I’m looking to collaborate on AI and Data Science Developer</h2>
+<h1>- 👋 I’m Amir Mehdi Parviz &#128511;<html></html></h1>
+<h2>👀 I’m interested in AI(Deep Learning , Computer Vision) and Data Science </h1>
+<h1>🌱 I’m currently Work as a AI-Developer</h1>
+<h1>💞️ I’m looking to collaborate on AI and Data Science Developer</h1>
 </body>
 </html>
 <!---
@@ -21,20 +21,31 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GIGAParviz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GIGAParviz&layout=compact&langs_count=8&theme=algolia"/>
 
-
-
-
-
-
-
-
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-	<a href="mailto:a.m.parviz02@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:a.m.parviz02@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" 
+							alt="Gmail"/></a>
 	<a href="https://github.com/gigaparviz"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.instagram.com/giga_parviz/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<a href="https://t.me/am_parviz/"><img src="https://img.shields.io/badge/telegram-%230088CC.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
+
+
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
+![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+
+
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<!-- "margin-right: whatever;" -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+
+</div>
 
