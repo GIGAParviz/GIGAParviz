@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 
 ### 🛠 &nbsp;Tech Stack
-![AI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI94YhdJrc-CcRPzJoydaf2bwTB1NlAbVnFg&usqp=CAU)&nbsp;
+![AI](https://img.favpng.com/20/14/11/logo-artificial-intelligence-png-favpng-pZPDdCTE1hTXtXwWqjz6gGsxc.jpg)&nbsp;
