@@ -6,7 +6,14 @@
 
 
 
-- 👋 I’m Amir Mehdi Parviz <h2>&#128511;</h2>
+- 👋 I’m Amir Mehdi Parviz<html>
+<body>
+
+
+<h2>&#128511;</h2>
+
+</body>
+</html>
 - 👀 I’m interested in AI(Deep Learning , Computer Vision) and Data Science 
 - 🌱 I’m currently Work as a AI-Developer
 - 💞️ I’m looking to collaborate on AI and Data Science Developer
