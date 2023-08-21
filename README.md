@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 
 ### 🛠 &nbsp;Tech Stack
-![AI](https://img.favpng.com/20/14/11/logo-artificial-intelligence-png-favpng-pZPDdCTE1hTXtXwWqjz6gGsxc.jpg)&nbsp;
+![AI]([https://img.favpng.com/20/14/11/logo-artificial-intelligence-png-favpng-pZPDdCTE1hTXtXwWqjz6gGsxc.jpg](https://www.clipartmax.com/png/middle/357-3574797_clip-art-ai-artificial-computer-deep-learning-intelligence-artificial-intelligence-logo-png.png)https://www.clipartmax.com/png/middle/357-3574797_clip-art-ai-artificial-computer-deep-learning-intelligence-artificial-intelligence-logo-png.png)&nbsp;
