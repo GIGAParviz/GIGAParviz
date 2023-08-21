@@ -3,8 +3,7 @@
 </p>
 <body>
 
-<h2>- 👋 I’m Amir Mehdi Parviz &#128511;<html></html>h2>
-<h2></h2>
+<h2>- 👋 I’m Amir Mehdi Parviz &#128511;<html></html></h2>
 <h2>👀 I’m interested in AI(Deep Learning , Computer Vision) and Data Science </h2>
 <h2>🌱 I’m currently Work as a AI-Developer</h2>
 <h2>💞️ I’m looking to collaborate on AI and Data Science Developer</h2>
