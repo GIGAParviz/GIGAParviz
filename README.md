@@ -15,9 +15,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## ⚡ Technologies
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-|![](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow&style=plastic)
+
+|![](https://img.shields.io/badge/-Python-black?logo=python&style=plastic)|![](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow&style=plastic)
+![](https://img.shields.io/badge/-C++-black?logo=cplusplus&style=plastic)|
+
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
