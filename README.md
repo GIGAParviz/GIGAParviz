@@ -4,9 +4,9 @@
 <body>
 
 <h3>- 👋 I’m Amir Mehdi Parviz &#128511;<html></html></h3>
-<h2>👀 I’m interested in AI(Deep Learning , Computer Vision) and Data Science </h1>
-<h1>🌱 I’m currently Work as a AI-Developer</h1>
-<h1>💞️ I’m looking to collaborate on AI and Data Science Developer</h1>
+<h3>👀 I’m interested in AI(Deep Learning , Computer Vision) and Data Science </h3>
+<h3>🌱 I’m currently Work as a AI-Developer</h3>
+<h3>💞️ I’m looking to collaborate on AI and Data Science Developer</h3>
 </body>
 </html>
 <!---
