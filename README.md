@@ -8,3 +8,8 @@
 GIGAParviz/GIGAParviz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+### 🛠 &nbsp;Tech Stack
+![AI](https://img.shields.io/badge/-AI-05122A?style=flat&logo=swift&logoColor=F05137)&nbsp;
