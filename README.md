@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
 
 ## ⚡ Technologies
 
-|![](https://img.shields.io/badge/-Python-black?logo=python&style=plastic)|![](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow&style=plastic)
-![](https://img.shields.io/badge/-C++-black?logo=cplusplus&style=plastic)|
+![](https://img.shields.io/badge/-Python-black?logo=python&style=plastic)![](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow&style=plastic)
+![](https://img.shields.io/badge/-C++-black?logo=cplusplus&style=plastic)
 
 
 
