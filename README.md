@@ -12,7 +12,10 @@ Of course, I am always interested in learning new things apart from any challeng
 GIGAParviz/GIGAParviz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="center"> <h2>✨I'm interested in</h2>
+<p>
+	
+<h2 align="center">✨I'm interested in</h2>
+ </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue">
 </p>
