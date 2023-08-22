@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p>
+<p align="center">
 	<a href="mailto:a.m.parviz02@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" 
 							alt="Gmail"/></a>
 	<a href="https://github.com/gigaparviz"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
