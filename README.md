@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg">
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg">
 
-<img src="https://simpleicons.org/icons/opencv.svg">
+<img src="">
 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> 
 																			  
@@ -72,5 +72,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 </div>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
 
