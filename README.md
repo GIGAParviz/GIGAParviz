@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 							alt="Gmail"/></a>
 	<a href="https://github.com/gigaparviz"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.instagram.com/giga_parviz/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://t.me/am_parviz/"><img src="[https://img.shields.io/badge/telegram-%230088CC.svg?style=plastic&logo=telegram&logoColor=white](https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg)" alt="Telegram"/></a>
+	<a href="https://t.me/am_parviz/"><img src="[[https://img.shields.io/badge/telegram-%230088CC.svg?style=plastic&logo=telegram&logoColor=white](https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg)](https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg)" alt="Telegram"/></a>
 </p>
 
 
