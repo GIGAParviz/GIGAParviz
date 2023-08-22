@@ -12,22 +12,24 @@ Of course, I am always interested in learning new things apart from any challeng
 GIGAParviz/GIGAParviz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p>
-	
+<p>	
 <h2 align="center">✨I'm interested in</h2>
- </p>
+</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue">
 </p>
 
- 
-<p align="center"> <h2>⚡ Technologies</h2>
+<p>	
+<h2 align="center">⚡Technologies</h2>
+</p>
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> 
 </p>
 
 
-### 🤝🏻 &nbsp;Connect with Me
+<p>	
+<h2 align="center">🤝🏻 &nbsp;Connect with Me</h2>
+</p>
 
 <p align="center">
 	<a href="mailto:a.m.parviz02@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" 
