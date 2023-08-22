@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">⚡Technologies</h2>
 
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> <img src="[https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg](https://camo.githubusercontent.com/6282c49f57e9f0ba6b0229225455adc37632dd160625673f1faa03604a0ac42d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b657261732532302d2532334430303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4b65726173266c6f676f436f6c6f723d7768697465)">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> <img src="[https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg]
 </p>
 
 
@@ -40,7 +40,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-### ⚙️ &nbsp;GitHub Analytics
  <p>
 	 <h2 align="center">⚙️ &nbsp;GitHub Analytics</h2>
  </p>
