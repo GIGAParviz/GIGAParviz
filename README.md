@@ -24,6 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> <img src="[https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg]
+																			  
 </p>
 
 
