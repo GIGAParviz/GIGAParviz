@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 <p>	
 <h2 align="center">🤝🏻 &nbsp;Connect with Me</h2>
 </p>
-  <a href="https://mail.google.com/mail/u/2/?ogbl#inbox"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/a.m.parviz02"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://instagram.com/giga_parviz"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
  
 </p>
