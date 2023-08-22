@@ -29,8 +29,7 @@ You can click the Preview link to take a look at your changes.
 																			  
 </p>
 <h2 align="center">🤝🏻 &nbsp;Connect with Me</h2>
-<p>	
-<h2 align="center">🤝🏻 &nbsp;Connect with Me</h2>
+<p align="center">	
 	<a href="mailto:a.m.parviz02@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.instagram.com/giga_parviz/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
  	<a href="https://t.me/am_parviz/"><img src="https://img.shields.io/badge/telegram-%230088CC.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
