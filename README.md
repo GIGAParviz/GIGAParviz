@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">⚡Technologies</h2>
 
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> <img src="[https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg]>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
 																			  
 </p>
 
