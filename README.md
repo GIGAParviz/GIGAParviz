@@ -1,4 +1,4 @@
-<h2 align="center">My name is Amir Mehdi Parviz.👋</h2>
+<h2 align="center">My name is Amir Mahdi Parviz.👋</h2>
 <p align="center">A happy programmer full of positive energy
 I am currently a chemical engineering student and I am interested in Deep Learning, Computer Vision and anything related to artificial intelligence. And I am trying to apply artificial intelligence in chemical engineering
 Of course, I am always interested in learning new things apart from any challenge. 
