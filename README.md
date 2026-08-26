@@ -39,7 +39,7 @@ deployment, observability, product workflows, and human review.
 <table width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
-<h3>Gymim</h3>
+<h3>Gymmim.ir</h3>
 <b>Gym Management SaaS</b>
 <p>Production-oriented platform for memberships, sessions, tuition, payments, debt tracking, buffet operations, financial reporting, and club administration.</p>
 <p><code>Python · FastAPI · PostgreSQL · React · Docker</code></p>
