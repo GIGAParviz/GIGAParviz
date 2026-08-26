@@ -42,10 +42,6 @@ Some of this work involves medical, financial, or private operational data. I re
 
 A Git-backed shared-memory MCP server for AI coding teams. It gives Codex, Claude Code, Cursor, Gemini CLI, and other MCP clients one portable team memory without requiring a hosted database.
 
-### [Star Catch Game](https://github.com/GIGAParviz/star-catch-game) · [Live demo](https://gigaparviz.github.io/star-catch-game/)
-
-A small Persian browser game with a dependency-free frontend and an optional Python/SQLite leaderboard API.
-
 ### [ContextForge](https://github.com/GIGAParviz/ContextForge) — in progress
 
 A production-oriented AI knowledge workspace for document ingestion, retrieval, RAG, agent workflows, evaluation, and local model serving.
