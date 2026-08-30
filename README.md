@@ -121,13 +121,6 @@ deployment, observability, product workflows, and human review.
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
 </p>
 
-<h3>Product Interfaces</h3>
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-</p>
-
 <br>
 
 <h2>Let&apos;s Build Something Useful</h2>
